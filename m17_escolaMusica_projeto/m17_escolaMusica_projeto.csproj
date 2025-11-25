@@ -46,16 +46,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Alunos\Aluno.cs" />
+    <Compile Include="Alunos\F_alunos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Alunos\F_alunos.Designer.cs">
+      <DependentUpon>F_alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseDados.cs" />
+    <Compile Include="F_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_principal.Designer.cs">
+      <DependentUpon>F_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instrumentos\F_instrumentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instrumentos\F_instrumentos.Designer.cs">
+      <DependentUpon>F_instrumentos.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Alunos\F_alunos.resx">
+      <DependentUpon>F_alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_principal.resx">
+      <DependentUpon>F_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instrumentos\F_instrumentos.resx">
+      <DependentUpon>F_instrumentos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

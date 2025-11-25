@@ -1,0 +1,10 @@
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\bin\Debug\m17_escolaMusica_projeto.exe.config
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\bin\Debug\m17_escolaMusica_projeto.exe
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\bin\Debug\m17_escolaMusica_projeto.pdb
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\obj\Debug\m17_escolaMusica_projeto.csproj.AssemblyReference.cache
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\obj\Debug\m17_escolaMusica_projeto.F_principal.resources
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\obj\Debug\m17_escolaMusica_projeto.Properties.Resources.resources
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\obj\Debug\m17_escolaMusica_projeto.csproj.GenerateResource.cache
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\obj\Debug\m17_escolaMusica_projeto.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\obj\Debug\m17_escolaMusica_projeto.exe
+C:\Users\ESEN\Documents\m17_escolaMusica_projeto\m17_escolaMusica_projeto\obj\Debug\m17_escolaMusica_projeto.pdb

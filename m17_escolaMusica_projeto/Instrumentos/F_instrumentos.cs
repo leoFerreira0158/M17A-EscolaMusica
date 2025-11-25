@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace m17_escolaMusica_projeto
+namespace m17_escolaMusica_projeto.Instrumentos
 {
-    public partial class Form1 : Form
+    public partial class F_instrumentos : Form
     {
-        public Form1()
+        public F_instrumentos()
         {
             InitializeComponent();
         }
